@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "746800914584",
+    "project_id": "coalapp-f7e6b",
+    "storage_bucket": "coalapp-f7e6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746800914584:android:39094261885775ee3670ed",
+        "android_client_info": {
+          "package_name": "com.example.coalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgyzU85tSouF5-JiHbEW4v2k10tBIXfck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
